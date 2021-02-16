@@ -5,4 +5,6 @@ R Shiny based dashboard to analyze Netflix View History data
 - Overlaid timeline of viewing sessions to spot concurrent usage patterns
 - Heatmap of views visualized on a map (potential anamoly detection)
 
-https://anupamamanjunath.shinyapps.io/netflix_shiny/
+**Live Demo**: https://anupamamanjunath.shinyapps.io/netflix_shiny/
+
+Kaggle Notebook: https://www.kaggle.com/anupamamanju/netflix-view-activity-analysis
